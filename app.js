@@ -1,7 +1,7 @@
 let age = 15;
 
-//added comments
-let result = age > 18 ? "Adult" : "Not Adult"
-console.log("this is test");s
+//ternary operator example
+let result = age > 18 ? "Adult" : "Not Adult";
 console.log(result);
+console.log("i am now on hotfix worktree");
 
